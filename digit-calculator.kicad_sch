@@ -1968,7 +1968,7 @@
 		(uuid "1db63fbc-99af-4af2-8372-23b9b7a0fb50")
 	)
 	(label "J_RIGHT"
-		(at 162.56 101.6 0)
+		(at 162.56 90.17 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1998,7 +1998,7 @@
 		(uuid "38c91ff5-7762-40ff-ac48-4bec38e8794c")
 	)
 	(label "J_LEFT"
-		(at 162.56 97.79 0)
+		(at 162.56 93.98 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2038,7 +2038,7 @@
 		(uuid "4d5d89f2-92de-41d2-8998-bb7552d30254")
 	)
 	(label "J_UP"
-		(at 162.56 90.17 0)
+		(at 162.56 101.6 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2138,7 +2138,7 @@
 		(uuid "d977c3d3-7243-4cba-ac43-43fe5ffd68b5")
 	)
 	(label "J_DOWN"
-		(at 162.56 93.98 0)
+		(at 162.56 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2640,7 +2640,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 100.33 125.73 0)
 			(effects
 				(font
