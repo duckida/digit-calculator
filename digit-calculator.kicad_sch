@@ -2239,7 +2239,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Display:SSD1306-0.91-OLED-4pin-128x32"
+		(property "Footprint" "Display:SSD1306-OLED"
 			(at 194.31 86.36 0)
 			(effects
 				(font
