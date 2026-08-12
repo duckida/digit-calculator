@@ -8,3 +8,7 @@
 - Routed the rest of the wires and added ground planes
 - Silkscreen edits
 - Add the Hack Club logo and Digit logo!
+- Switched to a bigger OLED
+- Removed and re-routed all traces
+- Added the Digit calculator icon
+- Rounded the edges
